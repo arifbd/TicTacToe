@@ -1,7 +1,7 @@
 # TicTacToe
 This project is for newbie developers.
 
-### Screenshots
+### Screenshots  
 #### Initial game screen
 ![alt text](https://raw.githubusercontent.com/arifbd/TicTacToe/master/screenshot/first.png)    
 
